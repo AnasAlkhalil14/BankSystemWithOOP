@@ -1,3 +1,9 @@
+About This Project
+
+This project was originally developed before I began using Git and GitHub regularly. I have now published the source code on GitHub to document my work, share the project, and make future improvements easier.
+
+Project status: Originally developed; improvements may follow.
+
 # 🏦 Bank Management System (OOP)
 
 A console-based **Bank Management System** implemented in **C++** using **Object-Oriented Programming principles**.
